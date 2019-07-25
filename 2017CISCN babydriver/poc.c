@@ -1,3 +1,4 @@
+//kernel 4.4.72
 //poc.c
 //gcc poc.c -o poc -static -w
 #include<stdio.h>
