@@ -1,5 +1,5 @@
-//poc.c
-
+//rop.c
+//gcc rop.c -o poc -w -static
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
